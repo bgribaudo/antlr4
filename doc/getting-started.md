@@ -124,6 +124,7 @@ $ grun Hello r -gui
 hello parrt
 ^D
 ```
+(_Note:_ On Windows, use `^Z` [Ctrl+Z] instead of `^D` [Ctrl+D])
 
 That pops up a dialog box showing that rule `r` matched keyword `hello` followed by identifier `parrt`.
 
